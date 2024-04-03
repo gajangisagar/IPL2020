@@ -1,0 +1,3 @@
+No action is required.
+Info: ALARM: "PacketsDropCount-Nat gateway-New-Sonyliv" in Asia Pacific (Singapore) is now OK.
+ALARM: "ErrorPortAllocation-Nat gateway-New-Sonyliv" in Asia Pacific (Singapore)
